@@ -90,7 +90,7 @@ Os resultados mostram que **não há um modelo único superior em todas as métr
 Clone o repositório oficial do projeto a partir do GitHub:
 
 ```bash
-git clone https://github.com/thaismedeiros/PPGEEC2327-time-series
+git clone https://github.com/thaisaraujom/PPGEEC2327-time-series
 cd PPGEEC2327-time-series
 ```
 
